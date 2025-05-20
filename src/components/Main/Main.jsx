@@ -2,7 +2,7 @@ import "./Main.css";
 
 import { assets } from "../../assets/assets";
 import { useContext } from "react";
-import { Context } from "../../context/context";
+import { Context } from "../../context/Contextt";
 
 const Main = () => {
   const {
